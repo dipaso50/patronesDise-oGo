@@ -28,7 +28,7 @@
 + **Memento**
 + **Observer**
 + **State**
-+ **Strategy**
++ **[Strategy](/strategy)**
 + **Template method**
 + **Visitor**
 
