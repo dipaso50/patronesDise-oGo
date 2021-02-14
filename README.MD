@@ -5,15 +5,15 @@
 + **Abstract Factory**
 + **Builder**
 + **Factory Method**
-+ **Singleton**
 + **Prototype**
++ **Singleton**
 
 ### Estructurales
 ***
 + **Adapter**
 + **Bridge**
 + **Composite**
-+ **Decorator**
++ **[Decorator](/decorator)**
 + **Facade**
 + **Flyweigth**
 + **Proxy**
