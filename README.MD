@@ -2,7 +2,7 @@
 
 ### Creación
 ***
-+ **Abstract Factory**
++ **[Abstract Factory](/abstractfactory)**
 + **Builder**
 + **Factory Method**
 + **Prototype**
