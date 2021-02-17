@@ -22,7 +22,7 @@
 ### Comportamiento
 ***
 + **Chain of responsability**
-+ **Command**
++ **[Command](/command)**
 + **Iterpreter**
 + **Mediator**
 + **Memento**
